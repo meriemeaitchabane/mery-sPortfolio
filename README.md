@@ -87,7 +87,7 @@ The portfolio can be deployed to various platforms:
 I'm always interested in connecting with fellow developers, potential collaborators, or anyone interested in my work:
 
 - **Email**: meriemeaitchabane@gmail.com
-- **LinkedIn**: linkedin.com/in/yourprofile
+- **LinkedIn**: linkedin.com/in/ait-chabane-merieme/
 - **GitHub**: github.com/mery-1412
 - **Portfolio**: myPortfolio.com
 
