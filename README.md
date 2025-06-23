@@ -67,13 +67,8 @@ The portfolio is built with performance in mind:
 
 ## Deployment
 
-The portfolio can be deployed to various platforms:
+**GitHub Pages**
 
-**Netlify**: Build the project with `npm run build` and deploy the build folder directly.
-
-**Vercel**: Connect your GitHub repository for automatic deployments on every push.
-
-**GitHub Pages**: Add the gh-pages package and configure deployment scripts for easy hosting.
 
 ## Development Scripts
 
