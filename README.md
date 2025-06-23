@@ -89,7 +89,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 - **Email**: meriemeaitchabane@gmail.com
 - **LinkedIn**: linkedin.com/in/yourprofile
 - **GitHub**: github.com/mery-1412
-- **Portfolio**: myPortfolio.com
+- **Portfolio**: [myPortfolio](https://mery-1412.github.io/mery-sPortfolio/)
 
 
 
